@@ -1,0 +1,8 @@
+[package]
+name = "home_budget_core"
+version = "0.1.0"
+authors = ["Maxym Naumchyk <max.naumch@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+datetime = "0.4.7"
